@@ -1,2 +1,2 @@
 # myrepoUTN
-This is a repository for de UTN
+This is a repository for the UTN
