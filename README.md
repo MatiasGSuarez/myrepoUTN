@@ -4,3 +4,4 @@ Mi primer repositorio
 
 I love 💻 and 🐶
 I like web development 
+I'm studying to be a software developer
